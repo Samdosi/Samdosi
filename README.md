@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammad Ali Dosi 
+- 👋 Hi, I’m Sam Dosi 
 - 👀 I’m a undergradute Software Engineer and i love coding. 
 - 🌱 I’m currently working with C, Java, and Python.
 - 💞️ I’m learning Javascript and HTML on my free time.
