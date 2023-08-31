@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sam Dosi 
+- 👋 Hi, I’m Sam Dosi.
 - 👀 I’m a undergradute Software Engineer and i love coding. 
-- 🌱 I’m currently working with full stack projects.
-- 💻 Check out my previous projects and let me know what you think! 
+- 🌱 I’m currently working on full stack projects.
+- 💻 Check out my previous projects in my git repository and let me know what you think! 
 - 💌 You can reach me by email at sam.dosi10@gmail.com
 - 😎 Happy coding!
